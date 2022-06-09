@@ -49,5 +49,5 @@ The time taken for preprocessing the articles, conducting sentiment analysis and
 pip3 install -r requirements.txt\
 To execute the scraping of the websites:\
 py -3 Scraper.py\
-To execute preprocessing,sentiment analysis of articles and plotting of graphs:\
+To execute preprocessing, sentiment analysis of articles and plotting of graphs:\
 py -3 SentimentAnalysis.py
