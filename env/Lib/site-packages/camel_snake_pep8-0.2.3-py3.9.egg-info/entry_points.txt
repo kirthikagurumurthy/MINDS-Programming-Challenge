@@ -1,0 +1,3 @@
+[console_scripts]
+camel-snake-pep8 = camel_snake_pep8:run_then_fix_rejected_and_analyze
+

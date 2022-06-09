@@ -1,0 +1,12 @@
+README.rst
+camel_snake_pep8.py
+setup.cfg
+setup.py
+camel_snake_pep8.egg-info/PKG-INFO
+camel_snake_pep8.egg-info/SOURCES.txt
+camel_snake_pep8.egg-info/dependency_links.txt
+camel_snake_pep8.egg-info/entry_points.txt
+camel_snake_pep8.egg-info/not-zip-safe
+camel_snake_pep8.egg-info/requires.txt
+camel_snake_pep8.egg-info/top_level.txt
+test/test_standalone_module_with_issues.py
