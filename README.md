@@ -45,7 +45,7 @@ The time taken for scraping the websites: 5.9 s\
 The time taken for preprocessing the articles, conducting sentiment analysis and plotting the pie charts: 6.1 s
 
 ## EXECUTION INSTRUCTIONS
-**Commands:**
+**Commands:**\
 pip3 install -r requirements.txt\
 To execute the scraping of the websites:\
 py -3 Scraper.py\
