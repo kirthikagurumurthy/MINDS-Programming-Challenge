@@ -38,5 +38,5 @@ The distribution of tweets using both the methods explained for the articles scr
 Neutral: 30% 
 Negative: 50 %
 Positive: 20%
-![alt text](https://github.com/kirthikagurumurthy/MINDS-Programming-Challenge/main/Visualizations/piechart_sentiment_text.png?raw=true)
+![alt text](https://github.com/kirthikagurumurthy/MINDS-Programming-Challenge/blob/main/Visualizations/piechart_sentiment_text.png)
 By manually labelling the tweets as positive, negative and neutral, the accuracy for the sentiment analysis using only the article text was 90% and the accuracy for the sentiment analysis using both the text and the heading (weighted average) is 80%. 
